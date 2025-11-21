@@ -1,22 +1,41 @@
-<span style="color:#9daaf2;">Shafeer Saidalavi</span>
-<span style="color:#7f8cff;">Data Science Learner • ML • Analytics • Cloud</span>
-🌙 About Me
+Data Science | Machine Learning | Analytics | Cloud | SQL 
 
-Learning Data Science with a focus on ML, Analytics, and Cloud.
-I enjoy exploring datasets, building clean dashboards, and creating simple, practical projects.
+About Me
 
-⚡ Skills
+Driven Data Science learner exploring ML, Analytics, and Cloud. I create impactful projects and constantly level up my skills.
 
-Languages: Python • SQL • HTML • CSS • Bootstrap
-Visualization: Tableau • Power BI • Plotly • Dash • D3.js • Bokeh
-Cloud: AWS • GCP
-Tools: Jupyter • Git • GitHub
+Skills
 
-🖤 GitHub Stats
-<p align="left"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🔥 Streak
-<p align="left"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
-🌐 Connect
+Languages: Python, SQL, HTML, CSS, Bootstrap, Python libraries (NumPy, Pandas, Seaboarn)
+Visualization: Tableau, Power BI, Plotly, Dash, D3.js, Bokeh
+Cloud: AWS, GCP , Azure
+Tools: Jupyter Notebook, Git, GitHub
 
-LinkedIn: your link
-Email: your email
+Projects
+
+EDA and data cleaning 
+
+Mathematical insights and created Better Models
+
+Statistical insights and prediction models
+
+Dashboards in Tableau, Power BI, Plotly, Dash, Bokeh, and D3.js
+
+SQL case studies 
+
+Airline management database (SQL)
+
+Web designs using HTML, CSS, and Bootstrap
+
+Designed websites,Main one :- UAE Airport
+
+Basic cloud workflows using AWS and GCP
+
+
+
+Connect
+
+LinkedIn: www.linkedin.com/in/
+shafeer-saidalavi-9829a2277
+
+Email: shafeersaidalavi222@gmail.com
